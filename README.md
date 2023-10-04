@@ -1,1 +1,1 @@
-# Typingspeedtest
+# Wordwhiz
